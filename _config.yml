@@ -17,14 +17,15 @@ baseurl: ""
 title: Eduardo Jr's website
 
 # Short description of your site
-description: Graduando em Estatística, adepto à filosofia do Software Livre e amante do R 
+description: Graduando em Estatística, adepto à filosofia do Software Livre e amante do R
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: "blog/"
   Sobre mim: "aboutme"
-  Home: 
+  Home:
 nav-search: "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -43,7 +44,7 @@ author:
   ## twitter: yourname
   ## linkedin: yourlink
   stackoverflow: 6563583/eduardo-junior
- 
+
 # Select which links to show in the footer
 footer-links-active:
   rss: false
