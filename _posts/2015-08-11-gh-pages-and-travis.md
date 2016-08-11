@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Commits automáticos com travis!
+title: Commits automáticos no GitHub com Travis CI!
 tags: [git, github, gh-pages, travis-ci]
 ---
 
@@ -43,8 +43,8 @@ No site do [Travis CI], serão listados todos os repositórios do GitHub
 dos quais se tem acesso. Habilite a integração contínua, conforme figura
 abaixo.
 
-<!-- ![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/travis1.png) -->
-![](images/travis1.png)
+![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/travis1.png)
+<!-- ![](images/travis1.png) -->
 
 **Gere uma chave de acesso ao seu repositório**
 
@@ -54,24 +54,24 @@ servidor Travis é análogo à um usuário sem acesso, devemos dar-lhe
 permissão para escrita no repositório. Isso é feito na página de
 *Configurações -> Personal access tokens*.
 
-<!-- ![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/github1.png) -->
-![](images/github1.png)
+![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/github1.png)
+<!-- ![](images/github1.png) -->
 
 Ainda nessa página, ao criar uma nova chave de acesso, você escolherá o
 escopo que essa chave compreende. Para incluir os arquivos em um ramo
 apenas a primeira opção é necessária (na verdade apenas o terceiro item
 da primeira opção já será suficiente).
 
-<!-- ![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/github2.png) -->
-![](images/github2.png)
+![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/github2.png)
+<!-- ![](images/github2.png) -->
 
 Concedida as permissões à chave, uma página que contém o código
 identificador MD5 dessa chave é gerado. Copie esse código, note o aviso,
 pois ele é verdadeiro, você não conseguirá visualizar novamente o código
 pelo GitHub.
 
-<!-- ![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/github3.png) -->
-![](images/github3.png)
+![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/github3.png)
+<!-- ![](images/github3.png) -->
 
 **Crie uma variável de ambiente no Travis**
 
@@ -80,8 +80,8 @@ várias variáveis que são acessadas durante a verificação. Nesta etapa
 fazemos com que o Travis conheça a chave de acesso que geramos na etapa
 anterior.
 
-<!-- ![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/travis2.png) -->
-![](images/travis2.png)
+![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/travis2.png)
+<!-- ![](images/travis2.png) -->
 
 **Adicione os arquivos para compilação dos documentos**
 
@@ -194,8 +194,8 @@ E abaixo temos a página inicial do ramo `gh-pages` desse
 repositório. Note que a mensagem de commit é a qual definimos no arquivo
 `_deploy.R`.
 
-<!-- ![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/github4.png) -->
-![](images/github4.png)
+![](https://raw.githubusercontent.com/JrEduardo/jreduardo.github.io/master/_posts/images/github4.png)
+<!-- ![](images/github4.png) -->
 
 A página web gerada pelo GitHub fica hospedada no endereço
 `https://usuario.github.io/repositorio`. A página criada para esse
