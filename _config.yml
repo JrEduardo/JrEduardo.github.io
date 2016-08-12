@@ -24,6 +24,8 @@ description: Graduando em Estatística, adepto à filosofia do Software Livre e 
 # List of links in the navigation bar
 navbar-links:
   Blog: "blog/"
+  Portfólio:
+    - Trabalhos da graduação: "graduation"
   Sobre mim: "aboutme"
   Home:
 nav-search: "search"
