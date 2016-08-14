@@ -26,8 +26,8 @@ trabalhos feitos.
   Repositório
   [https://github.com/JrEduardo/ce064-ddr](https://github.com/JrEduardo/ce064-ddr)
 
-* [ce225-mlg](https://jreduardo.github.io/ce225-mlg): Modelos de
-  Regressão Generalizados<br>
+* [ce225-mlg](https://jreduardo.github.io/ce225-mlg): Modelos Lineares
+  Generalizados<br>
   Ministrada por [Cesar Taconeli](https://docs.ufpr.br/~taconeli/) no 2º
   semestre de 2014<br> Repositório
   [https://github.com/JrEduardo/ce225-mlg](https://github.com/JrEduardo/ce225-mlg)
