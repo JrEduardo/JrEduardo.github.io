@@ -10,6 +10,14 @@ UFPR. Para cada disciplina listada há um repositório Git correspondente,
 contendo todos arquivos e uma página para exibição dos relatórios e/ou
 trabalhos feitos.
 
+* [ce064-ml](https://jreduardo.github.io/ce064-ml): Introdução ao
+  Machine Learning<br>
+  Ministrada por
+  [Eduardo Ferreira](http://www.leg.ufpr.br/doku.php/pessoais:e.ferreira)
+  no 1º semestre de 2016<br>
+  Repositório
+  [https://github.com/JrEduardo/ce064-ml](https://github.com/JrEduardo/ce064-ml)
+
 * [ce064-ddr](https://jreduardo.github.io/ce064-ddr): Ferramentas para
   Documentos Dinâmicos Reproduzíveis<br>
   Ministrada por
@@ -18,10 +26,8 @@ trabalhos feitos.
   Repositório
   [https://github.com/JrEduardo/ce064-ddr](https://github.com/JrEduardo/ce064-ddr)
 
-* [ce064-ml](https://jreduardo.github.io/ce064-ml): Introdução ao
-  Machine Learning<br>
-  Ministrada por
-  [Eduardo Ferreira](http://www.leg.ufpr.br/doku.php/pessoais:e.ferreira)
-  no 1º semestre de 2016<br>
-  Repositório
-  [https://github.com/JrEduardo/ce064-ml](https://github.com/JrEduardo/ce064-ml)
+* [ce225-mlg](https://jreduardo.github.io/ce225-mlg): Modelos de
+  Regressão Generalizados<br>
+  Ministrada por [Cesar Taconeli](https://docs.ufpr.br/~taconeli/) no 2º
+  semestre de 2014<br> Repositório
+  [https://github.com/JrEduardo/ce225-mlg](https://github.com/JrEduardo/ce225-mlg)
