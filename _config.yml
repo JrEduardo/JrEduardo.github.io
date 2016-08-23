@@ -44,7 +44,7 @@ author:
   facebook: eduardo.junior.1234
   github: jreduardo
   ## twitter: yourname
-  ## linkedin: yourlink
+  linkedin: eduardo-junior-ribeiro-4b65b768
   stackoverflow: 6563583/eduardo-junior
 
 # Select which links to show in the footer
@@ -54,7 +54,7 @@ footer-links-active:
   email: true
   twitter: false
   github: true
-  linkedin: eduardo-junior-ribeiro-4b65b768
+  linkedin: true
   stackoverflow: true
 
 # How to display the link to the website in the footer
