@@ -18,6 +18,14 @@ trabalhos feitos.
   Repositório
   [https://github.com/JrEduardo/ce064-ml](https://github.com/JrEduardo/ce064-ml)
 
+* [ce227-bayes](https://jreduardo.github.io/ce227-bayes): Inferência
+  Bayesiana<br>
+  Ministrada por
+  [Paulo Justiniano](http://www.leg.ufpr.br/~paulojus/)
+  no 1º semestre de 2016<br>
+  Repositório
+  [https://github.com/JrEduardo/ce227-bayes](https://github.com/JrEduardo/ce227-bayes)
+
 * [ce064-ddr](https://jreduardo.github.io/ce064-ddr): Ferramentas para
   Documentos Dinâmicos Reproduzíveis<br>
   Ministrada por
