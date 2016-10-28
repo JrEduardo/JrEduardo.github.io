@@ -4,6 +4,11 @@ layout: page
 
 ## Eduardo Elias Ribeiro Junior ##
 
+> [edujrrib@gmail.com](mailto:edujrrib@gmail.com)
+> Bacharel em Estatística pela UFPR (2016), tem como interesses de
+  pesquisa modelos de regressão para dados de contagem e recursos
+  computacionais para ensino/aprendizagem de estatística.
+
 Sou nascido em Cascavel-PR e residente na região metropolitana da
 maravilhosa cidade de Curitiba, desde os três anos de idade. Aqui
 iniciei minha graduação em Estatística na Universidade Federal do
@@ -16,8 +21,8 @@ _software_ R, onde desenvolvo minhas principais pesquisas. Atualmente
 meu principal projeto é o desenvolvimento de um pacote R para ajuste de
 modelos COM-Poisson para dados de contagem considerando modelos de
 regressão convencionais, com excesso de zeros e acomodando efeitos
-aleatórios (inicialmente normais), este projeto será o meu trabalho de
-conclusão de curso e está sob orientação do
+aleatórios (inicialmente normais), este projeto foi o meu trabalho de
+conclusão de curso sob orientação do
 [Prof. Dr. Walmes M. Zeviani](www.leg.ufpr.br/~walmes/). Na Universidade
 também, atuo como colaborador em projetos do [LEG](www.leg.ufpr.br/)
 (Laboratório de Estatística e Geoinformação) e
@@ -32,7 +37,7 @@ plataforma Ubuntu a qual utilizo desde 2014. A versão atual que utilizo
 é 14.04 LTS, equipada com, entre outros programas, o _software_ R, para
 análises estatísticas, _LaTeX_ e _pandoc_, para produção de relatórios e
 documentos em geral, _emacs_ como principal editor (para tudo) e _Git_
-para versionamento de projetos. 
+para versionamento de projetos.
 
 ### Perfis/Páginas ###
 
@@ -42,8 +47,3 @@ para versionamento de projetos.
 * **Wiki do LEG:**
   [http://www.leg.ufpr.br/doku.php/pessoais:eduardojr](http://www.leg.ufpr.br/doku.php/pessoais:eduardojr)
 * **Rpubs:** [http://rpubs.com/jreduardo](http://rpubs.com/jreduardo)
-
-### Contato ###
-
-* Centro Politécnico Campus III da UFPR - LEG 
-* [edujrrib@gmail.com](mailto:edujrrib@gmail.com)

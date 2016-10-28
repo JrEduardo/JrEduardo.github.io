@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Eduardo Jr's website
-subtitle: Estatístico amante do R e de tecnologia
 css: "/css/index.css"
 meta-title: "Eduardo Jr"
-meta-description: "Graduando em Estatística pela UFPR"
 ---
 
 <style>
@@ -21,10 +19,10 @@ meta-description: "Graduando em Estatística pela UFPR"
 <!-- <a href="https://jreduardo.github.io/cursos" role="button" class="btn btn-primary custom">Cursos e seminários</a> -->
 </div>
 
-Olá! sou Eduardo Junior, graduando em Estatística pela Universidade
+Olá! sou Eduardo Junior, bacharel em Estatística pela Universidade
 Federal do Paraná e amante e entusiasta no _software_ R para computação
 estatística e gráfica, elaboração de aplicações _web_, _webScraping_
-entre outras.
+e muitas outras coisas.
 
 Mantenho este _website_ como página pessoal e arquivo de códigos,
 análises e curiosidades sobre Estatística, Computação e Tecnologia que
