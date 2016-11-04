@@ -13,8 +13,8 @@ meta-title: "Eduardo Jr"
 
 <div style="text-align:center">
 <strong> Links Rápidos: </strong> &nbsp;&nbsp; <br>
-<!-- <a href="https://jreduardo.github.io/tcc" role="button" class="btn btn-primary custom">Pacote <TT>cmpreg</TT></a> -->
 <a href="https://jreduardo.github.io/graduation" role="button" class="btn btn-primary custom">Trabalhos graduação</a>
+<a href="https://jreduardo.github.io/monografia" role="button" class="btn btn-primary custom">Monografia</a>
 <!-- <a href="https://jreduardo.github.io/appsshiny" role="button" class="btn btn-primary custom">Aplicações Shiny</a> -->
 <!-- <a href="https://jreduardo.github.io/cursos" role="button" class="btn btn-primary custom">Cursos e seminários</a> -->
 </div>
