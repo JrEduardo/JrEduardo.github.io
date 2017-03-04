@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Gentium Basic';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/Gentium-Basic-regular/Gentium-Basic-regular.eot');
+  src: url('/fonts/Gentium-Basic-regular/Gentium-Basic-regular.eot?#iefix') format('embedded-opentype'),
+       local('Gentium Basic'),
+       local('Gentium-Basic-regular'),
+       url('/fonts/Gentium-Basic-regular/Gentium-Basic-regular.woff2') format('woff2'),
+       url('/fonts/Gentium-Basic-regular/Gentium-Basic-regular.woff') format('woff'),
+       url('/fonts/Gentium-Basic-regular/Gentium-Basic-regular.ttf') format('truetype'),
+       url('/fonts/Gentium-Basic-regular/Gentium-Basic-regular.svg#GentiumBasic') format('svg');
+}
+

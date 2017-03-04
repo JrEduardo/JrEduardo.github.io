@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'News Cycle';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/News-Cycle-regular/News-Cycle-regular.eot');
+  src: url('/fonts/News-Cycle-regular/News-Cycle-regular.eot?#iefix') format('embedded-opentype'),
+       local('News Cycle'),
+       local('News-Cycle-regular'),
+       url('/fonts/News-Cycle-regular/News-Cycle-regular.woff2') format('woff2'),
+       url('/fonts/News-Cycle-regular/News-Cycle-regular.woff') format('woff'),
+       url('/fonts/News-Cycle-regular/News-Cycle-regular.ttf') format('truetype'),
+       url('/fonts/News-Cycle-regular/News-Cycle-regular.svg#NewsCycle') format('svg');
+}
+

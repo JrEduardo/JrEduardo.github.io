@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Tinos';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/Tinos-regular/Tinos-regular.eot');
+  src: url('/fonts/Tinos-regular/Tinos-regular.eot?#iefix') format('embedded-opentype'),
+       local('Tinos'),
+       local('Tinos-regular'),
+       url('/fonts/Tinos-regular/Tinos-regular.woff2') format('woff2'),
+       url('/fonts/Tinos-regular/Tinos-regular.woff') format('woff'),
+       url('/fonts/Tinos-regular/Tinos-regular.ttf') format('truetype'),
+       url('/fonts/Tinos-regular/Tinos-regular.svg#Tinos') format('svg');
+}
+
