@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eduardo Jr</title>
-    <link>/index.xml</link>
-    <description>Recent content on Eduardo Jr</description>
+    <title>Gh Pages on Eduardo Jr</title>
+    <link>/tags/gh-pages/index.xml</link>
+    <description>Recent content in Gh Pages on Eduardo Jr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 11 Aug 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/gh-pages/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Commits automáticos no GitHub com Travis CI!</title>
@@ -129,140 +128,6 @@ Imports: rmarkdown&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;A página web gerada pelo GitHub fica hospedada no endereço &lt;code&gt;https://usuario.github.io/repositorio&lt;/code&gt;. A página criada para esse tutorial pode ser acessada em &lt;a href=&#34;https://jreduardo.github.io/book-test/&#34; class=&#34;uri&#34;&gt;https://jreduardo.github.io/book-test/&lt;/a&gt; (esse repositório sofrerá alterações, pois o usarei para outros testes).&lt;/p&gt;
 &lt;p&gt;Ressalto que o material deste post foi motivado a partir da minha curiosidade sobre o funcionamento do pacote &lt;a href=&#34;https://bookdown.org/&#34;&gt;&lt;code&gt;bookdown&lt;/code&gt;&lt;/a&gt; e muito do que foi descrito aqui pode ser explorado também nos repositório Git do pacote (&lt;a href=&#34;http://github.com/rstudio/bookdown/&#34;&gt;rstudio/bookdown&lt;/a&gt;) e da demostração do pacote (&lt;a href=&#34;http://github.com/rstudio/bookdown-demo/&#34;&gt;rstudio/bookdown-demo&lt;/a&gt;).&lt;/p&gt;
 &lt;!--------------------------------------------- --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;eduardo-elias-ribeiro-junior&#34;&gt;Eduardo Elias Ribeiro Junior&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;center&gt;&lt;a href=&#34;mailto:edujrrib@gmail.com&#34;&gt;edujrrib@gmail.com&lt;/a&gt; /
-&lt;a href=&#34;lattes.cnpq.br/9517198687029938&#34;&gt;Currículo Lattes&lt;/a&gt; /
-&lt;a href=&#34;./docs/edu_moderncv.pdf&#34;&gt;Currículo Vitae&lt;/a&gt; &lt;/center&gt;
-  Bacharel em Estatística pela UFPR (2016), tem como interesses de
-  pesquisa modelos de regressão para dados de contagem, ciência
-  reproduzível, machine learning e recursos computacionais para
-  ensino/aprendizagem de estatística.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Sou nascido em Cascavel-PR e residente residente em Piracicaba, onde
-curso mestrado em Estatística e Experimentação Agronômica (PPGEEA
-ESALQ-USP). Minha formação é em Estatística, realizada na Universidade
-Federal do Paraná entre os anos de 2012 e 2016.&lt;/p&gt;
-
-&lt;p&gt;Estatística é a minha primeira graduação e durante os quatro anos
-percorridos me apaixonei pela área. Sou entusiasta e amante do
-&lt;em&gt;software&lt;/em&gt; R, onde desenvolvo minhas principais pesquisas. Atualmente
-meu principal projeto é o desenvolvimento de um pacote R para ajuste de
-modelos COM-Poisson para dados de contagem considerando modelos de
-regressão convencionais, com excesso de zeros e acomodando efeitos
-aleatórios (inicialmente normais), este projeto foi o meu trabalho de
-conclusão de curso sob orientação do
-&lt;a href=&#34;www.leg.ufpr.br/~walmes/&#34;&gt;Prof. Dr. Walmes M. Zeviani&lt;/a&gt;. Na Universidade
-também, atuo como colaborador em projetos do &lt;a href=&#34;www.leg.ufpr.br/&#34;&gt;LEG&lt;/a&gt;
-(Laboratório de Estatística e Geoinformação) e
-&lt;a href=&#34;http://www.pet.est.ufpr.br/&#34;&gt;PET-Estatística&lt;/a&gt; (Programa de Educação
-Tutorial).&lt;/p&gt;
-
-&lt;p&gt;No decorrer das disciplinas do curso fui apresentado à filosofia do
-Software Livre, a qual sou adepto e propagandista. Hoje trabalho sob a
-plataforma Ubuntu a qual utilizo desde 2014. A versão atual que utilizo
-é 16.04 LTS, equipada com, entre outros programas, o &lt;em&gt;software&lt;/em&gt; R, para
-análises estatísticas, &lt;em&gt;LaTeX&lt;/em&gt; e &lt;em&gt;pandoc&lt;/em&gt;, para produção de relatórios e
-documentos em geral, &lt;em&gt;emacs&lt;/em&gt; como principal editor (para tudo) e &lt;em&gt;Git&lt;/em&gt;
-para versionamento de projetos.&lt;/p&gt;
-
-&lt;h3 id=&#34;perfis-páginas&#34;&gt;Perfis/Páginas&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;ResearchGate:&lt;/strong&gt; &lt;a href=&#34;https://www.researchgate.net/profile/Eduardo_Elias_Ribeiro_Junior&#34;&gt;https://www.researchgate.net/profile/Eduardo_Elias_Ribeiro_Junior&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/jreduardo&#34;&gt;https://github.com/jreduardo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitLab do C3SL:&lt;/strong&gt; &lt;a href=&#34;https://gitlab.c3sl.ufpr.br/eerj12&#34;&gt;https://gitlab.c3sl.ufpr.br/eerj12&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Site do PET:&lt;/strong&gt; &lt;a href=&#34;http://www.pet.est.ufpr.br/?p=1273&#34;&gt;http://www.pet.est.ufpr.br/?p=1273&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wiki do LEG:&lt;/strong&gt;
-&lt;a href=&#34;http://www.leg.ufpr.br/doku.php/pessoais:eduardojr&#34;&gt;http://www.leg.ufpr.br/doku.php/pessoais:eduardojr&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Rpubs:&lt;/strong&gt; &lt;a href=&#34;http://rpubs.com/jreduardo&#34;&gt;http://rpubs.com/jreduardo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/monografia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/monografia/</guid>
-      <description>
-
-&lt;h3 id=&#34;trabalho-de-conclusão-de-curso&#34;&gt;Trabalho de conclusão de curso&lt;/h3&gt;
-
-&lt;p&gt;Trabalho de conclusão de curso elaborado em 2016 na Universidade Federal
-do Paraná como requisito para obtenção do título de bacharel em
-Estatística.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/jreduardo/monografia/&#34;
-role=&#34;button&#34; class=&#34;btn btn-primary custom&#34;&gt;Repositório Github&lt;/a&gt;
-&lt;a href=&#34;https://jreduardo.github.io/monografia/01-tcc.pdf&#34;
-role=&#34;button&#34; class=&#34;btn btn-primary custom&#34;&gt;Texto monografia&lt;/a&gt;
-&lt;a href=&#34;https://jreduardo.github.io/monografia/slides-tcc.pdf&#34;
-role=&#34;button&#34; class=&#34;btn btn-primary custom&#34;&gt;Slides monografia&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/portfolio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/</guid>
-      <description>
-
-&lt;h2 id=&#34;trabalhos-da-graduação&#34;&gt;Trabalhos da graduação&lt;/h2&gt;
-
-&lt;p&gt;Espaço dedicado à exibição dos arquivos elaborados em algumas
-disciplinas cursadas durante minha graduação em Estatística na
-UFPR. Para cada disciplina listada há um repositório Git correspondente,
-contendo todos arquivos e uma página para exibição dos relatórios e/ou
-trabalhos feitos.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://jreduardo.github.io/ce064-ml&#34;&gt;ce064-ml&lt;/a&gt;: Introdução ao
-Machine Learning&lt;br&gt;
-Ministrada por
-&lt;a href=&#34;http://www.leg.ufpr.br/doku.php/pessoais:e.ferreira&#34;&gt;Eduardo Ferreira&lt;/a&gt;
-no 1º semestre de 2016&lt;br&gt;
-Repositório
-&lt;a href=&#34;https://github.com/JrEduardo/ce064-ml&#34;&gt;https://github.com/JrEduardo/ce064-ml&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://jreduardo.github.io/ce227-bayes&#34;&gt;ce227-bayes&lt;/a&gt;: Inferência
-Bayesiana&lt;br&gt;
-Ministrada por
-&lt;a href=&#34;http://www.leg.ufpr.br/~paulojus/&#34;&gt;Paulo Justiniano&lt;/a&gt;
-no 1º semestre de 2016&lt;br&gt;
-Repositório
-&lt;a href=&#34;https://github.com/JrEduardo/ce227-bayes&#34;&gt;https://github.com/JrEduardo/ce227-bayes&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://jreduardo.github.io/ce064-ddr&#34;&gt;ce064-ddr&lt;/a&gt;: Ferramentas para
-Documentos Dinâmicos Reproduzíveis&lt;br&gt;
-Ministrada por
-&lt;a href=&#34;http://www.leg.ufpr.br/doku.php/pessoais:walmes&#34;&gt;Walmes Zeviani&lt;/a&gt; no
-2º semestre de 2015&lt;br&gt;
-Repositório
-&lt;a href=&#34;https://github.com/JrEduardo/ce064-ddr&#34;&gt;https://github.com/JrEduardo/ce064-ddr&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://jreduardo.github.io/ce225-mlg&#34;&gt;ce225-mlg&lt;/a&gt;: Modelos Lineares
-Generalizados&lt;br&gt;
-Ministrada por &lt;a href=&#34;https://docs.ufpr.br/~taconeli/&#34;&gt;Cesar Taconeli&lt;/a&gt; no 2º
-semestre de 2014&lt;br&gt; Repositório
-&lt;a href=&#34;https://github.com/JrEduardo/ce225-mlg&#34;&gt;https://github.com/JrEduardo/ce225-mlg&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
