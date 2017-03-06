@@ -266,5 +266,53 @@ semestre de 2014&lt;br&gt; Repositório
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>/projetos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projetos/</guid>
+      <description>
+
+&lt;h2 id=&#34;contribuindo-para-a-ciência&#34;&gt;Contribuindo para a Ciência&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cursos.leg.ufpr.br/rmcd/&#34;&gt;&lt;strong&gt;rmcd&lt;/strong&gt;&lt;/a&gt; (2017-atual):&lt;br /&gt;
+Em conjunto com os professores Wagner H. Bonat e Walmes M. Zeviani&lt;br /&gt;
+Material elaborado para o curso &lt;em&gt;Regression Models for Count Data:
+beyond the Poisson model&lt;/em&gt;, a ser ministrado na XV Escola de Modelos de
+Regressão. Nesse material são apresentados modelos e estatísticos para
+lidar com dados de contagem, nomeadamente são os modelos Poisson,
+Gamma-Count, COM-Poisson e Poisson-Tweedie /
+Extend-Poisson-Tweedie. São apresentados estratégias para ajuste e
+inferência dos modelos exemplificados com códigos R.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/jreduardo/gammacount&#34;&gt;&lt;strong&gt;gammacount&lt;/strong&gt;&lt;/a&gt;
+(2017-atual):&lt;br /&gt;
+Em conjunto com profº Drº Walmes Zeviani&lt;br /&gt;
+Pacote R para ajuste dos modelos re regressão baseados na distribuição
+Gamma-Count. Pacote escrito em S4 com implementações em C++.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/jreduardo/SensShiny&#34;&gt;&lt;strong&gt;SensShiny&lt;/strong&gt;&lt;/a&gt; (2016-atual):
+Pacote R com interfaces web, elaboradas em
+&lt;a href=&#34;cran.r-project.org/web/packages/shiny&#34;&gt;Shiny&lt;/a&gt;, para realização de
+experimentos sensoriais.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/jreduardo/cmpreg&#34;&gt;&lt;strong&gt;cmpreg&lt;/strong&gt;&lt;/a&gt; (2016-atual):&lt;br /&gt;
+Sob orientação do profº Drº Walmes Zeviani&lt;br /&gt;
+Pacote R para ajuste de Modelos COM-Poisson tradicionais e extensões
+para acomodação de excesso de zeros e inclusão de efeitos aleatórios,
+utilizados na análise de dados de contagem. Primeira versão elaborada
+como parte de meu trabalho de conclusão de curso.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/pet-estatistica/labestData&#34;&gt;&lt;strong&gt;labestData&lt;/strong&gt;&lt;/a&gt; (2015-atual):&lt;br /&gt;
+Em colaboração com o grupo &lt;a href=&#34;http://www.pet.est.ufpr.br/&#34;&gt;PET-Estatística UPPR&lt;/a&gt;.&lt;br /&gt;
+Coleção de conjuntos de dados a serem utilizados para Ensino de
+Estatístico, em formato de pacote do R devidamente estruturados e
+documentados.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
